@@ -8,10 +8,10 @@ Thumbs.db
 *.tmp
 
 # Ign4
-\_old
+*_old
 
 # Ign5
-\_backup
+*_backup
 
 
 
